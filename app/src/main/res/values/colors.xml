@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorHighlight">#ffff00</color>
+    <color name="white">#fff</color>
+    <color name ="background">#f7f7f7</color>
+    <color name ="textBox">#f0f0f0</color>
+    <color name ="textBoxBorder">#000</color>
+    <color name ="nonSelectableText">#999999</color>
+    <color name ="textColorAfterUserInput">#000</color>
+    <color name ="allText">#000</color>
+    <color name ="mainBottom">#2196f3</color>
+    <color name ="topRibbon">#2196f3</color>
+    <color name ="button">#1081d6</color>
+    <color name ="tabSelectionIndicator">#fff</color>
+    <color name ="highlighted">#fff</color>
+    <color name ="notHighlighted">#dddddd</color>
+
+</resources>

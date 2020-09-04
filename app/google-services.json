@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "90532083348",
+    "firebase_url": "https://shramiktemp.firebaseio.com",
+    "project_id": "shramiktemp",
+    "storage_bucket": "shramiktemp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90532083348:android:91cc3b8d28a1aab342e681",
+        "android_client_info": {
+          "package_name": "com.shramik.india"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90532083348-kbph2ap7bin2a1p7ku2vcr2cq5g3f1fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGjBUR7KT4S1DdWKNrEQ7WQTV1gGflh0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90532083348-kbph2ap7bin2a1p7ku2vcr2cq5g3f1fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
